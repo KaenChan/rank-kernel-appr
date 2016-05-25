@@ -1,0 +1,5 @@
+*.mexw64
+*.pdb
+*.swp
+*.swo
+*.pyc
