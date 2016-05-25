@@ -18,9 +18,9 @@ function test_ranksvm_run()
 
     % RBFSampler
     % NystroemSampler
-    % appr_type = 'nystroem';
+    appr_type = 'nystroem';
     % appr_type = 'improvednystroem';
-    appr_type = 'fourier';
+    % appr_type = 'fourier';
     kernel = 'rbf';
     coef0 = 1; 
     degree = 3;
