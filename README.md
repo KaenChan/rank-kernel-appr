@@ -3,12 +3,12 @@ Rank-kernel-appr
 
 Rank-kernel-appr is a ranking SVM (RankSVM) algorithm with kernel approximation to solve the problem of lengthy training time of kernel RankSVM.
 
-Supported kernel approximation methods
+Kernel approximation methods
 - The Nystrom method
 - Improved Nystrom method
 - Random Fourier features
 
-Supported RankSVM
+Linear RankSVM
 - RankSVM-primal
 - Fenchel
 
