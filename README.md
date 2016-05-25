@@ -14,7 +14,7 @@ Supported RankSVM
 
 ## The Nystrom method vs random Fourier features
 
-<img src="https://github.com/KaenChan/rank-kernel-appr/blob/master/test/ncomponets-map-all.png">
+<img src="https://github.com/KaenChan/rank-kernel-appr/blob/master/test/ncomponets-map-all.png" height="500" width="600" >
 
 ## Demo
 
