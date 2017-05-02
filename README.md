@@ -1,6 +1,19 @@
 Rank-kernel-appr
 ===========================
 
+## Citation
+If you use the codes, please cite the following paper:
+```
+@article{Chen2017Ranking,
+  title={Ranking Support Vector Machine with Kernel Approximation.},
+  author={Chen, Kai and Li, Rongchun and Dou, Yong and Liang, Zhengfa and Lv, Qi},
+  journal={Computational Intelligence & Neuroscience},
+  volume={2017},
+  year={2017},
+}
+```
+    
+## Overview
 Rank-kernel-appr is a ranking SVM (RankSVM) algorithm with kernel approximation to solve the problem of lengthy training time of kernel RankSVM.
 
 Kernel approximation methods
